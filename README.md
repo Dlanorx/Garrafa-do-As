@@ -16,7 +16,6 @@ sudo pacman -S python pyside6
 
 # 2. Clonar o repositório
 git clone https://github.com/Dlanorx/Garrafa-do-As
-cd garrafa-as
 
 # 3. Rodar o instalador
 bash install.sh
