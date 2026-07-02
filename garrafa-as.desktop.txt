@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Garrafa do AS
-Comment=Launcher de jogos Windows via Proton/Wine no Linux
-Exec=python3 /usr/share/garrafa-as/garrafa_as.py
-Icon=/usr/share/garrafa-as/icon.png
-Terminal=false
-Type=Application
-Categories=Game;
-Keywords=wine;proton;launcher;jogos;
